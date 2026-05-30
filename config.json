@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderuender",
+        "uuid": 205200,
+        "checksum": "v7qb6"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
